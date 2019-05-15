@@ -4,7 +4,6 @@ import javax.swing.JOptionPane;
 public class Principal {
 
     /**
-     * *
      * Verifica se uma palavra é palindromo.
      *
      * @param palavra Palavra a ser verifica.
